@@ -1,0 +1,7 @@
+nltk
+langchain_google_genai
+langchain_community
+pydantic
+python-dotenv
+streamlit
+pypdf
